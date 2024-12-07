@@ -18,7 +18,8 @@ CSS: Applied for styling the pages and ensuring a responsive layout.
 
 #Highlight of the website
 
-Responsive Design: The website is fully responsive, ensuring it looks great on both mobile and desktop devices. 
+Responsive Design: The website is fully responsive, ensuring it looks great on both mobile and desktop devices.
+
 Minimalist Layout: Focuses on simplicity, with a clean design and easy navigation between pages.
 
 #Check out the page
