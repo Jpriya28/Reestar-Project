@@ -24,10 +24,10 @@ Minimalist Layout: Focuses on simplicity, with a clean design and easy navigatio
 
 #Check out the page
 
-Click [https://jpriya28.github.io/Reestar-Project/] here to visit my portfolio website
+Click [https://jpriya28.github.io/Reestar-Project/] here to visit my reestar website
 
 #Contributing
 
-If you'd like tp contribute (or) suggest impprovements, please feel free to open an issue or create pull request.
+If you'd like to contribute (or) suggest improvements, please feel free to open an issue or create pull request.
 
 Thankyou for visiting my portfolio website!..
