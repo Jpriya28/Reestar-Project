@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+
+.title{
+    color: black;
+    text-align: center;
+}
+
+.title:hover{
+    color:#ff7aa2
+}
+
+
+nav ul{
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+nav ul li a{
+    color:dodgerblue;
+    text-decoration: none;
+}
+
+
+nav ul li a:hover{
+    color:crimson ;
+
+}
+
+.sections{
+    margin:20px;
+    text-align: center;
+
+}
+
+
+.section-one,.section-two,.section-three,.section-four{
+    background-color: white;
+    border: burlywood 6px solid;
+    display: inline-block;
+    vertical-align: top;
+    height: fit-content; 
+
+}
+
+
+
+.section-one__title,.section-two__title,.section-three__title,.section-four__title{
+    color:brown;
+    font-style: italic;
+    
+}
+
+
+.section-one__desc,.section-two__desc,.section-three__desc,.section-four__desc{
+    font: weight 100px;
+    padding-top: 10px;
+
+}
+
+.section-one__order,.section-two__order,.section-three__order,.section-four__order{
+    background-color: black;
+    color: white;
+    border: none;
+    margin: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.section-one__order:hover{
+    background-color: blueviolet;
+}
+
+
+.section-two__order:hover{
+    background-color: blueviolet;
+}
+
+
+.section-three__order:hover{
+    background-color: blueviolet;
+}
+
+
+.section-four__order:hover{
+    background-color: blueviolet;
+}
+
+.section-one__image,.section-two__image,.section-three__image,.section-four__image{
+    overflow: hidden;
+    transition: 0.3;
+    max-width: 100%;
+}
+.section-contact{
+        background-color: white;
+        padding: 10px;
+        border-radius: 30px;
+        margin: 20px;
+        text-align: center;
+        
+
+}
+
+.contact-form{
+    display: inline-block;
+
+}
+
+.label{
+    text-align: center;
+}
+
+input, textarea{
+    border: none;
+    padding: 5px;
+    background-color: black;
+    border-radius: 2px;
+    margin: 5px ;
+    color: white;
+}
+
+td button{
+    margin: 0;
+    padding: 5px ;
+    background-color:cornsilk;
+    width: 100%;
+}
+
+
+button:hover{
+    background-color: #ff7aa2;
+}
+
+
